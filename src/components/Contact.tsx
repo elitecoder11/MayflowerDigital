@@ -113,7 +113,7 @@ export function Contact() {
                 name="phone"
                 type="tel"
                 className="w-full rounded-lg border border-slate-300 px-4 py-2.5 text-slate-900 focus:border-sky-500 focus:outline-none focus:ring-1 focus:ring-sky-500"
-                placeholder="(313) 555-0123"
+                placeholder="(734) 846-3047"
               />
             </div>
             <div>
@@ -146,14 +146,14 @@ export function Contact() {
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center text-center text-slate-600">
             <p>
               <strong className="text-slate-900">Email:</strong>{" "}
-              <a href="mailto:hello@mayflowerdigital.com" className="text-sky-600 hover:underline">
-                hello@mayflowerdigital.com
+              <a href="mailto:mayflowerdigital313@gmail.com" className="text-sky-600 hover:underline">
+                mayflowerdigital313@gmail.com
               </a>
             </p>
             <p>
               <strong className="text-slate-900">Phone:</strong>{" "}
-              <a href="tel:+13135550123" className="text-sky-600 hover:underline">
-                (313) 555-0123
+              <a href="tel:+17348463047" className="text-sky-600 hover:underline">
+                (734) 846-3047
               </a>
             </p>
           </div>
