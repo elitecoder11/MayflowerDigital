@@ -105,18 +105,6 @@ export function Contact() {
               />
             </div>
             <div>
-              <label htmlFor="phone" className="block text-sm font-medium text-slate-700 mb-1">
-                Phone
-              </label>
-              <input
-                id="phone"
-                name="phone"
-                type="tel"
-                className="w-full rounded-lg border border-slate-300 px-4 py-2.5 text-slate-900 focus:border-sky-500 focus:outline-none focus:ring-1 focus:ring-sky-500"
-                placeholder="(optional)"
-              />
-            </div>
-            <div>
               <label htmlFor="message" className="block text-sm font-medium text-slate-700 mb-1">
                 Message / Business Description <span className="text-slate-400">(optional)</span>
               </label>
